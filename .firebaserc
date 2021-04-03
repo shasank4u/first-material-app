@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng-fitness-tracker-40cff": {
+      "hosting": {
+        "first-material-app": [
+          "ng-fitness-tracker-40cff"
+        ]
+      }
+    }
+  }
+}
